@@ -74,7 +74,7 @@ plt.figure()
 plt.plot(arr)
 plt.show()
 
-#np.save('new.npy',arr)
+np.save('new.npy',arr)
 
 '''
     grad=g(ini_x)
