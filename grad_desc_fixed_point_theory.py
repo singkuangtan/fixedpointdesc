@@ -135,4 +135,4 @@ plt.show()
 plt.plot(grad_arr)
 plt.show()
 
-#np.save('ffgd.npy',arr)
+np.save('ffgd.npy',arr)
