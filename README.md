@@ -29,10 +29,15 @@ python grad_desc_fixed_point_theory_doublehumps.py
 # Experiment Results 
 
 Optimizing quadratic function
+
 ![Optimizing quadratic function](https://github.com/singkuangtan/fixedpointdesc/blob/main/gd.png)
+
 Optimizing interior point method function
+
 ![Optimizing interior point method function](https://github.com/singkuangtan/fixedpointdesc/blob/main/interior_point.png)
+
 Optimizing non-convex function
+
 ![Optimizing non-convex function](https://github.com/singkuangtan/fixedpointdesc/blob/main/nonconvex2.png)
 
 # Link
