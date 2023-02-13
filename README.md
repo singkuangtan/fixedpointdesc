@@ -25,6 +25,13 @@ Run the command to do fixed point gradient descent on non-convex cost function
 ```
 python grad_desc_fixed_point_theory_doublehumps.py
 ```
+
+# Experiment Results 
+
+![Optimizing quadratic function](https://github.com/singkuangtan/fixedpointdesc/blob/main/gd.png)
+![Optimizing interior point method function](https://github.com/singkuangtan/fixedpointdesc/blob/main/interior_point.png)
+![Optimizing non-convex function](https://github.com/singkuangtan/fixedpointdesc/blob/main/nonconvex.png)
+
 # Link
 [FixedPointDesc paper link](https://vixra.org/abs/2302.0031)
 
