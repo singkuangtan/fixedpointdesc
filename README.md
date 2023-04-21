@@ -51,7 +51,7 @@ Optimizing non-convex function
 
 [Discrete Markov Random Field Relaxation](https://vixra.org/abs/2112.0151)
 
-
+[Slideshare](https://www.slideshare.net/SingKuangTan)
 
 
 
